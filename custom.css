@@ -1,0 +1,15 @@
+/*#03a9f4*/
+html{
+	scroll-behavior: smooth;
+}
+.custom-bg-hiw{
+	background-color: #80808008;
+}
+.custom-bg-review{
+	background-color: #00bcd405;
+}
+.button{
+	background-color: transparent;
+	border: 1px solid blue;
+	color: blue;
+}
